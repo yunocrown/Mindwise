@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mindwise/static/css/main.45a21340.css",
+    "main.js": "/Mindwise/static/js/main.9abfc462.js",
+    "index.html": "/Mindwise/index.html",
+    "main.45a21340.css.map": "/Mindwise/static/css/main.45a21340.css.map",
+    "main.9abfc462.js.map": "/Mindwise/static/js/main.9abfc462.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.45a21340.css",
+    "static/js/main.9abfc462.js"
+  ]
+}
